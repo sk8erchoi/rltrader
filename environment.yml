@@ -1,0 +1,7 @@
+name: rltrader
+dependencies:
+  - python
+  - pip
+  - pip:
+    - tensorflow>=2.7.0
+    - mplfinance
